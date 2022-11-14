@@ -1,2 +1,2 @@
 # Curso-Practivo-JavaScript
-Curso practico con PLATZI
+Curso practico con PLATZI 2022
